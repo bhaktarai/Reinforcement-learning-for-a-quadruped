@@ -12,5 +12,4 @@ Notes:
 5. Used chatgpt for scripting and to comprehend what I was doing.
 6. Some methods that you write are not explicitly called in your script but within the train method of stablebaseline3. Just for clarification.
 
--- Start 4 windows of Coppeliasim for the four training environments and ensure the ZMQ server address match. Increase the number of training environment and Coppeliasim to match if your computer can handle 
-to cut training time. It took around 7 hours in my laptop with 1.6 ghz CPU. I ran coppeliasim with the animation graphics turned off(the éye'button).
+-- Start 4 windows of Coppeliasim for the four training environments if using multiple training environments and ensure the ZMQ server address match. Increase the number of training environment and Coppeliasim to match if your computer can handle to cut training time. It took around 7 hours in my laptop with 1.6 ghz CPU. I ran coppeliasim with the animation graphics turned off(the éye'button).

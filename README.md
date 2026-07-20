@@ -2,12 +2,12 @@
 <img width="4096" height="2304" alt="quaddy" src="https://github.com/user-attachments/assets/e28867ae-8a8f-4742-a787-cdbe33900bd9" />
 
 
-<a href="https://youtube.com" target="_blank](https://youtu.be/XwfNStlKkAc">    
-  <img src="https://youtube.com" 
-       alt="Watch the video" 
-       width="600" 
-       style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.35);"/>
-</a>
+
+https://github.com/user-attachments/assets/90c70fe6-94cd-4616-9c44-947e13beac49
+
+
+
+
 
 
 

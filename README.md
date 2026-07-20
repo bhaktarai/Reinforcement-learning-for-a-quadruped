@@ -1,6 +1,6 @@
 
 <img width="4096" height="2304" alt="quaddy" src="https://github.com/user-attachments/assets/e28867ae-8a8f-4742-a787-cdbe33900bd9" />
-
+<img width="4096" height="2304" alt="quaddy" src="[https://github.com/user-attachments/assets/e28867ae-8a8f-4742-a787-cdbe33900bd9](https://youtu.be/XwfNStlKkAc)" />
 
 # Reinforcement-learning-for-a-quadruped
 Here, I trained a quadruped with 12 DOF and proximity sensor to walk towards a fixed direction. I used stablebaseline3 with PPO policy and Coppeliasim as the training environment.

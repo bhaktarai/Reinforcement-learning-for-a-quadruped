@@ -1,6 +1,7 @@
 
 <img width="4096" height="2304" alt="quaddy" src="https://github.com/user-attachments/assets/e28867ae-8a8f-4742-a787-cdbe33900bd9" />
-[[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)](https://youtu.be/XwfNStlKkAc)
+
+
 
 
 # Reinforcement-learning-for-a-quadruped

@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/0cdee4ec-fa78-4867-a680-53b6f6f98b97
 Here, I trained a quadruped with 12 DOF and proximity sensor to walk towards a fixed direction. I used stablebaseline3 with PPO policy and Coppeliasim as the training environment.
 Notes:
 1. quaddy.ttt is the Coppeliasim scene.
-2. quaddy_rl_script is the training script with on robot.
+2. quaddy_rl_script is the training script with one robot.
 3. quaddy_rl_script_multi is the training script with 4 robots to cut training time.
 4. ppo_quadruped_multi is the zip folder with trained model.
 5. Used chatgpt for scripting and to comprehend what I was doing.
